@@ -32,6 +32,13 @@ class Cart extends ChangeNotifier {
       description: 'Bouncy cusioning is paired with soft yet supportive foam for responsiveness and smooth heel-to-toe transitions.',
       imagePath: 'lib/images/Kyrie.png',
     ),
+
+    Shoe(
+      name: 'SB Zoom Nyjah 3',
+      price: '109.99',
+      description: 'The rubber outsole has an auxetic traction pattern that follows the design of the midsole.',
+      imagePath: 'lib/images/Nyjah.png',
+    ),
   ];
 
   // List of items in user cart
